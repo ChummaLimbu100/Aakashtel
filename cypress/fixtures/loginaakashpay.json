@@ -1,0 +1,18 @@
+[
+  {
+    "email": "info@aakashtel.com",
+    "password": "123w456789"
+  },
+  {
+    "email": "info@aakashtel.com@@",
+    "password": "123w456789"
+  },
+  {
+    "email": "info@aakashtel.com",
+    "password": "123w4567890000"
+  },
+  {
+    "email": "     ",
+    "password": "   "
+  }
+]
